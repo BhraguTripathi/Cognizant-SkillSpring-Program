@@ -1,7 +1,7 @@
 package CoreJava;
 
 public class ConditionalStatement {
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         int a = 10;
         int b = 20;
         if (a > b) {

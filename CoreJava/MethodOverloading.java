@@ -10,7 +10,7 @@ class Calculators{
     }
 }
 public class MethodOverloading {
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         Calculators calc = new Calculators();
         System.out.println(calc.add(10.0,20.0));
         System.out.println(calc.add(10,20));

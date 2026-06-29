@@ -1,7 +1,7 @@
 package CoreJava;
 
 public class MultiDimensionalArray {
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         int[][] arr = {
                 {1, 2, 3},
                 {4, 5, 6},
