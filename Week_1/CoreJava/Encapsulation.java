@@ -1,4 +1,4 @@
-package CoreJava;
+package Week_1.CoreJava;
 
 class Check{
     private String name;

@@ -1,4 +1,4 @@
-package CoreJava;
+package Week_1.CoreJava;
 
 public class MultiDimensionalArray {
     public static void main(Strings[] args) {
@@ -8,9 +8,9 @@ public class MultiDimensionalArray {
                 {7, 8, 9}
         };
 
-        for(int[] i : arr){
-            for(int j: i){
-                System.out.print(j+" ");
+        for (int[] i : arr) {
+            for (int j : i) {
+                System.out.print(j + " ");
             }
             System.out.println();
         }

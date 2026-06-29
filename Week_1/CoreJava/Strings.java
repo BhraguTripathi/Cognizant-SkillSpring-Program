@@ -1,4 +1,4 @@
-package CoreJava;
+package Week_1.CoreJava;
 
 public class Strings {
     public static void main(String[] args) {

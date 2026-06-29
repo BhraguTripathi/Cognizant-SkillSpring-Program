@@ -1,4 +1,4 @@
-package CoreJava;
+package Week_1.CoreJava;
 
 public class HelloWorld {
     public static void main(Strings args[]) {
